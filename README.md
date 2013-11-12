@@ -1,4 +1,4 @@
-mdlo
+MDLO
 ====
 
 Movies Download Organizer
