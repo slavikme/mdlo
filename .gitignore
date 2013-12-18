@@ -12,5 +12,10 @@ web/bundles/*
 app/config/parameters.ini
 app/config/parameters.yml
 
-# Netbeans Project Files
+# Build & Run Files
+build
+bin
+composer.phar
+
+# Netbeans project files
 nbproject/private/

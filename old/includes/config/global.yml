@@ -1,0 +1,6 @@
+db:
+    hostname:   localhost
+    port:       3036
+    username:   mdlo_user
+    password:   j0G8Sow61
+    database:   mdlo_db
